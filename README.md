@@ -75,7 +75,7 @@ Instructions for windows:
 13. lastly, run **firebase deploy**, and the app will be deployed at the Hosting URL!
 
 ## <img src="supreme-weebs-anime-app/src/assets/logo.jpg?raw=true" style="width:20px"> Deployed Site On Firebase ##
-* Want to visit our currently deployed website instead then click on https://supreme-weebs-anime.web.app
+* Want to visit our currently deployed website instead then click on https://supreme-weebs-tester-db.web.app
     * Login:nicholas@gmail.com
     * Password: nicholas123
 
